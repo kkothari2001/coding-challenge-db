@@ -1,0 +1,19 @@
+{
+  "name": "coding-challenge-db",
+  "version": "1.0.0",
+  "description": "1. Fork this repository into your own personal space on GitHub.\r 2. You might want to setup branch protection if you are working in a team so direct commits to main are restricted and then branches and pull requests/reviews are required for all team members:\r * In your repository navigation to Settings > Branches\r * Under “Protected Branches” select 'main'\r * Enable the following settings:\r   * Protect this branch\r   * Require pull request reviews before merging\r   * Dismiss stale pull request approvals when new commits are pushed\r   * Include administrators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkothari2001/coding-challenge-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkothari2001/coding-challenge-db/issues"
+  },
+  "homepage": "https://github.com/kkothari2001/coding-challenge-db#readme"
+}
